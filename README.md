@@ -1,2 +1,3 @@
 # SB_Data-Science_projects
-Springboard Data Science Career Track
+This repo holds mini-projects, assignments and notes for capstone projects for the Springboard Data Science intensive Career Track
+Sep-2021   
